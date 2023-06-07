@@ -8,3 +8,5 @@
 * gcp_project
 * gcp_creds
 * service_account_email
+
+Terraform will only create the generated.tf file if resource blocks are not already created.
