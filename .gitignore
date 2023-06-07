@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+hc-581de7a90ab143c98db62d0a5e7-e48a66574c47.json
+tf-import-test.code-workspace
+variables.auto.tfvars
+.terraform/providers/registry.terraform.io/hashicorp/google/4.68.0/darwin_arm64/terraform-provider-google_v4.68.0_x5
